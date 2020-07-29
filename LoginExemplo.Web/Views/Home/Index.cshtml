@@ -1,0 +1,17 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+    <form action="@Url.Action("Index")" method="post">
+        <div class="form-group">
+            <label for="email">Email de Usuario</label>
+            <input type="text" class="form-control" name="email" id="email" aria-describedby="emailHelp">
+            <small id="emailHelp" class="form-text text-muted">Nunca compartolhe o seu E-mail ou Senhacom outras pessoas.</small>
+        </div>
+        <div class="form-group">
+            <label for="senha">Senha</label>
+            <input type="text" class="form-control" name="senha" id="senha">
+        </div>
+        <button type="submit" class="btn btn-primary">Autenticar</button>
+    </form>

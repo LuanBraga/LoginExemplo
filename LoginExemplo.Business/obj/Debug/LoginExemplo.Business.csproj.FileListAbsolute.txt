@@ -1,0 +1,17 @@
+C:\Users\luanb\source\repos\LoginExemplo\LoginExemplo.Business\obj\Debug\LoginExemplo.Business.csprojAssemblyReference.cache
+C:\Users\luanb\source\repos\LoginExemplo\LoginExemplo.Business\obj\Debug\LoginExemplo.Business.csproj.CoreCompileInputs.cache
+C:\Users\luanb\source\repos\LoginExemplo\LoginExemplo.Business\bin\Debug\LoginExemplo.Business.dll
+C:\Users\luanb\source\repos\LoginExemplo\LoginExemplo.Business\bin\Debug\LoginExemplo.Business.pdb
+C:\Users\luanb\source\repos\LoginExemplo\LoginExemplo.Business\bin\Debug\FluentNHibernate.dll
+C:\Users\luanb\source\repos\LoginExemplo\LoginExemplo.Business\bin\Debug\Iesi.Collections.dll
+C:\Users\luanb\source\repos\LoginExemplo\LoginExemplo.Business\bin\Debug\LoginExemplo.Factory.dll
+C:\Users\luanb\source\repos\LoginExemplo\LoginExemplo.Business\bin\Debug\MySql.Data.dll
+C:\Users\luanb\source\repos\LoginExemplo\LoginExemplo.Business\bin\Debug\NHibernate.dll
+C:\Users\luanb\source\repos\LoginExemplo\LoginExemplo.Business\bin\Debug\LoginExemplo.Factory.pdb
+C:\Users\luanb\source\repos\LoginExemplo\LoginExemplo.Business\bin\Debug\FluentNHibernate.xml
+C:\Users\luanb\source\repos\LoginExemplo\LoginExemplo.Business\bin\Debug\Iesi.Collections.xml
+C:\Users\luanb\source\repos\LoginExemplo\LoginExemplo.Business\bin\Debug\NHibernate.xml
+C:\Users\luanb\source\repos\LoginExemplo\LoginExemplo.Business\obj\Debug\LoginExemplo.Business.csproj.CopyComplete
+C:\Users\luanb\source\repos\LoginExemplo\LoginExemplo.Business\obj\Debug\LoginExemplo.Business.dll
+C:\Users\luanb\source\repos\LoginExemplo\LoginExemplo.Business\obj\Debug\LoginExemplo.Business.pdb
+C:\Users\luanb\source\repos\LoginExemplo\LoginExemplo.Business\bin\Debug\LoginExemplo.Factory.dll.config
